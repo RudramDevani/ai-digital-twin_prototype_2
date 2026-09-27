@@ -1,0 +1,7 @@
+Station,CycleTime,FailureRate,Utilization
+Raw Material Preparation,12.5,0.02,0.78
+Melting Furnace,45.0,0.05,0.92
+Forming & Molding,18.2,0.04,0.85
+Annealing,30.0,0.01,0.80
+Inspection,8.5,0.03,0.65
+Packaging,10.0,0.015,0.70
